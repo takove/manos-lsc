@@ -1,0 +1,74 @@
+[
+  {
+    "viewport": {
+      "width": 1440,
+      "height": 1100
+    },
+    "id": "0000",
+    "frame": 20,
+    "maxAlignmentErrorPx": 0.0000016562920563956147,
+    "videoWidth": 960,
+    "videoHeight": 540,
+    "currentTime": 0.833333
+  },
+  {
+    "viewport": {
+      "width": 1440,
+      "height": 1100
+    },
+    "id": "0001",
+    "frame": 20,
+    "maxAlignmentErrorPx": 9.928379540724563e-7,
+    "videoWidth": 960,
+    "videoHeight": 540,
+    "currentTime": 0.833333
+  },
+  {
+    "viewport": {
+      "width": 1440,
+      "height": 1100
+    },
+    "id": "0005",
+    "frame": 20,
+    "maxAlignmentErrorPx": 0.0000016040726222854573,
+    "videoWidth": 960,
+    "videoHeight": 540,
+    "currentTime": 0.833333
+  },
+  {
+    "viewport": {
+      "width": 375,
+      "height": 900
+    },
+    "id": "0000",
+    "frame": 20,
+    "maxAlignmentErrorPx": 0.0000010925157312158262,
+    "videoWidth": 960,
+    "videoHeight": 540,
+    "currentTime": 0.833333
+  },
+  {
+    "viewport": {
+      "width": 375,
+      "height": 900
+    },
+    "id": "0001",
+    "frame": 20,
+    "maxAlignmentErrorPx": 6.548909823322907e-7,
+    "videoWidth": 960,
+    "videoHeight": 540,
+    "currentTime": 0.833333
+  },
+  {
+    "viewport": {
+      "width": 375,
+      "height": 900
+    },
+    "id": "0005",
+    "frame": 20,
+    "maxAlignmentErrorPx": 0.000001058070893122931,
+    "videoWidth": 960,
+    "videoHeight": 540,
+    "currentTime": 0.833333
+  }
+]

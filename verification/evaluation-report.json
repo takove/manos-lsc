@@ -1,0 +1,1734 @@
+{
+  "generatedAt": "2026-09-12T20:33:20.148Z",
+  "kind": "Diagnostic fixtures, not learner validation",
+  "sameReference": {
+    "0030": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0000": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0032": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0031": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0038": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0039": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0005": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0026": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0024": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0001": {
+      "ok": true,
+      "score": 100,
+      "metrics": {
+        "shape": 100,
+        "location": 100,
+        "movement": 100
+      },
+      "coverage": 1,
+      "feedback": [
+        "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    }
+  },
+  "crossSign": {
+    "0030": {
+      "0030": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 53,
+        "metrics": {
+          "shape": 40,
+          "location": 64,
+          "movement": 65
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 70,
+        "metrics": {
+          "shape": 71,
+          "location": 69,
+          "movement": 69
+        },
+        "coverage": 1,
+        "feedback": [
+          "Mira dónde empieza y termina la mano izquierda respecto a tus hombros.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 88,
+        "metrics": {
+          "shape": 81,
+          "location": 93,
+          "movement": 94
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 71,
+        "metrics": {
+          "shape": 71,
+          "location": 72,
+          "movement": 71
+        },
+        "coverage": 1,
+        "feedback": [
+          "Mira dónde empieza y termina la mano izquierda respecto a tus hombros.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 82,
+        "metrics": {
+          "shape": 76,
+          "location": 88,
+          "movement": 85
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 67,
+        "metrics": {
+          "shape": 62,
+          "location": 70,
+          "movement": 71
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 55,
+        "metrics": {
+          "shape": 46,
+          "location": 63,
+          "movement": 63
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 73,
+        "metrics": {
+          "shape": 66,
+          "location": 79,
+          "movement": 79
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 43,
+        "metrics": {
+          "shape": 32,
+          "location": 50,
+          "movement": 54
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0000": {
+      "0030": {
+        "ok": true,
+        "score": 41,
+        "metrics": {
+          "shape": 40,
+          "location": 64,
+          "movement": 17
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 33,
+        "metrics": {
+          "shape": 27,
+          "location": 57,
+          "movement": 15
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 34,
+        "metrics": {
+          "shape": 30,
+          "location": 57,
+          "movement": 15
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 35,
+        "metrics": {
+          "shape": 30,
+          "location": 59,
+          "movement": 16
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 37,
+        "metrics": {
+          "shape": 33,
+          "location": 60,
+          "movement": 16
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 72,
+        "metrics": {
+          "shape": 51,
+          "location": 89,
+          "movement": 88
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 69,
+        "metrics": {
+          "shape": 57,
+          "location": 79,
+          "movement": 79
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 35,
+        "metrics": {
+          "shape": 31,
+          "location": 57,
+          "movement": 15
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 61,
+        "metrics": {
+          "shape": 49,
+          "location": 77,
+          "movement": 64
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0032": {
+      "0030": {
+        "ok": true,
+        "score": 70,
+        "metrics": {
+          "shape": 71,
+          "location": 69,
+          "movement": 69
+        },
+        "coverage": 1,
+        "feedback": [
+          "Mira dónde empieza y termina la mano izquierda respecto a tus hombros.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 44,
+        "metrics": {
+          "shape": 27,
+          "location": 57,
+          "movement": 57
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 60,
+          "location": 63,
+          "movement": 63
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano izquierda para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 85,
+        "metrics": {
+          "shape": 82,
+          "location": 88,
+          "movement": 88
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 75,
+        "metrics": {
+          "shape": 71,
+          "location": 78,
+          "movement": 78
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 61,
+        "metrics": {
+          "shape": 55,
+          "location": 65,
+          "movement": 66
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 48,
+        "metrics": {
+          "shape": 37,
+          "location": 56,
+          "movement": 57
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 75,
+        "metrics": {
+          "shape": 75,
+          "location": 74,
+          "movement": 76
+        },
+        "coverage": 1,
+        "feedback": [
+          "Mira dónde empieza y termina la mano izquierda respecto a tus hombros.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 37,
+        "metrics": {
+          "shape": 27,
+          "location": 44,
+          "movement": 47
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0031": {
+      "0030": {
+        "ok": true,
+        "score": 88,
+        "metrics": {
+          "shape": 81,
+          "location": 93,
+          "movement": 94
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 45,
+        "metrics": {
+          "shape": 30,
+          "location": 57,
+          "movement": 56
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 60,
+          "location": 63,
+          "movement": 63
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano izquierda para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 63,
+        "metrics": {
+          "shape": 59,
+          "location": 67,
+          "movement": 65
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano izquierda para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 75,
+        "metrics": {
+          "shape": 67,
+          "location": 83,
+          "movement": 79
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 59,
+        "metrics": {
+          "shape": 55,
+          "location": 63,
+          "movement": 63
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 47,
+        "metrics": {
+          "shape": 37,
+          "location": 54,
+          "movement": 55
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 67,
+        "metrics": {
+          "shape": 55,
+          "location": 77,
+          "movement": 76
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 35,
+        "metrics": {
+          "shape": 26,
+          "location": 41,
+          "movement": 43
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0038": {
+      "0030": {
+        "ok": true,
+        "score": 71,
+        "metrics": {
+          "shape": 71,
+          "location": 72,
+          "movement": 71
+        },
+        "coverage": 1,
+        "feedback": [
+          "Mira dónde empieza y termina la mano izquierda respecto a tus hombros.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 46,
+        "metrics": {
+          "shape": 30,
+          "location": 59,
+          "movement": 60
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 85,
+        "metrics": {
+          "shape": 82,
+          "location": 88,
+          "movement": 88
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 63,
+        "metrics": {
+          "shape": 59,
+          "location": 67,
+          "movement": 65
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano izquierda para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 76,
+        "metrics": {
+          "shape": 69,
+          "location": 82,
+          "movement": 82
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 57,
+          "location": 66,
+          "movement": 68
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 48,
+        "metrics": {
+          "shape": 37,
+          "location": 56,
+          "movement": 57
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 77,
+        "metrics": {
+          "shape": 71,
+          "location": 81,
+          "movement": 81
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 38,
+        "metrics": {
+          "shape": 27,
+          "location": 44,
+          "movement": 49
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0039": {
+      "0030": {
+        "ok": true,
+        "score": 82,
+        "metrics": {
+          "shape": 76,
+          "location": 88,
+          "movement": 85
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 48,
+        "metrics": {
+          "shape": 33,
+          "location": 60,
+          "movement": 60
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 75,
+        "metrics": {
+          "shape": 71,
+          "location": 78,
+          "movement": 78
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 75,
+        "metrics": {
+          "shape": 67,
+          "location": 83,
+          "movement": 79
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 76,
+        "metrics": {
+          "shape": 69,
+          "location": 82,
+          "movement": 82
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 57,
+          "location": 65,
+          "movement": 66
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 50,
+        "metrics": {
+          "shape": 41,
+          "location": 58,
+          "movement": 58
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 80,
+        "metrics": {
+          "shape": 71,
+          "location": 87,
+          "movement": 88
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 41,
+        "metrics": {
+          "shape": 31,
+          "location": 47,
+          "movement": 50
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0005": {
+      "0030": {
+        "ok": true,
+        "score": 54,
+        "metrics": {
+          "shape": 62,
+          "location": 70,
+          "movement": 19
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 72,
+        "metrics": {
+          "shape": 51,
+          "location": 89,
+          "movement": 88
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 49,
+        "metrics": {
+          "shape": 55,
+          "location": 65,
+          "movement": 17
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 59,
+        "metrics": {
+          "shape": 55,
+          "location": 63,
+          "movement": 63
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 50,
+        "metrics": {
+          "shape": 57,
+          "location": 66,
+          "movement": 18
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 57,
+          "location": 65,
+          "movement": 66
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 73,
+        "metrics": {
+          "shape": 56,
+          "location": 86,
+          "movement": 87
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 49,
+        "metrics": {
+          "shape": 57,
+          "location": 64,
+          "movement": 17
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 44,
+          "location": 82,
+          "movement": 69
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0026": {
+      "0030": {
+        "ok": true,
+        "score": 44,
+        "metrics": {
+          "shape": 46,
+          "location": 63,
+          "movement": 17
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 69,
+        "metrics": {
+          "shape": 57,
+          "location": 79,
+          "movement": 79
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 37,
+        "metrics": {
+          "shape": 37,
+          "location": 56,
+          "movement": 15
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 36,
+        "metrics": {
+          "shape": 37,
+          "location": 54,
+          "movement": 14
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 37,
+        "metrics": {
+          "shape": 37,
+          "location": 56,
+          "movement": 15
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 40,
+        "metrics": {
+          "shape": 41,
+          "location": 58,
+          "movement": 15
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 73,
+        "metrics": {
+          "shape": 56,
+          "location": 86,
+          "movement": 87
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 37,
+        "metrics": {
+          "shape": 38,
+          "location": 55,
+          "movement": 14
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 67,
+        "metrics": {
+          "shape": 55,
+          "location": 81,
+          "movement": 73
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0024": {
+      "0030": {
+        "ok": true,
+        "score": 73,
+        "metrics": {
+          "shape": 66,
+          "location": 79,
+          "movement": 79
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 45,
+        "metrics": {
+          "shape": 31,
+          "location": 57,
+          "movement": 57
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 75,
+        "metrics": {
+          "shape": 75,
+          "location": 74,
+          "movement": 76
+        },
+        "coverage": 1,
+        "feedback": [
+          "Mira dónde empieza y termina la mano izquierda respecto a tus hombros.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 67,
+        "metrics": {
+          "shape": 55,
+          "location": 77,
+          "movement": 76
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 77,
+        "metrics": {
+          "shape": 71,
+          "location": 81,
+          "movement": 81
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 80,
+        "metrics": {
+          "shape": 71,
+          "location": 87,
+          "movement": 88
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 61,
+        "metrics": {
+          "shape": 57,
+          "location": 64,
+          "movement": 65
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 47,
+        "metrics": {
+          "shape": 38,
+          "location": 55,
+          "movement": 55
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 38,
+        "metrics": {
+          "shape": 28,
+          "location": 44,
+          "movement": 47
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    },
+    "0001": {
+      "0030": {
+        "ok": true,
+        "score": 33,
+        "metrics": {
+          "shape": 32,
+          "location": 50,
+          "movement": 14
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0000": {
+        "ok": true,
+        "score": 61,
+        "metrics": {
+          "shape": 49,
+          "location": 77,
+          "movement": 64
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0032": {
+        "ok": true,
+        "score": 28,
+        "metrics": {
+          "shape": 27,
+          "location": 44,
+          "movement": 12
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0031": {
+        "ok": true,
+        "score": 27,
+        "metrics": {
+          "shape": 26,
+          "location": 41,
+          "movement": 11
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0038": {
+        "ok": true,
+        "score": 29,
+        "metrics": {
+          "shape": 27,
+          "location": 44,
+          "movement": 13
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0039": {
+        "ok": true,
+        "score": 31,
+        "metrics": {
+          "shape": 31,
+          "location": 47,
+          "movement": 13
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0005": {
+        "ok": true,
+        "score": 62,
+        "metrics": {
+          "shape": 44,
+          "location": 82,
+          "movement": 69
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0026": {
+        "ok": true,
+        "score": 67,
+        "metrics": {
+          "shape": 55,
+          "location": 81,
+          "movement": 73
+        },
+        "coverage": 1,
+        "feedback": [
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0024": {
+        "ok": true,
+        "score": 29,
+        "metrics": {
+          "shape": 28,
+          "location": 44,
+          "movement": 12
+        },
+        "coverage": 1,
+        "feedback": [
+          "Prueba subir un poco la mano derecha para acercarte a la altura del ejemplo.",
+          "Compara la apertura de los dedos y la dirección de la mano con el video.",
+          "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      },
+      "0001": {
+        "ok": true,
+        "score": 100,
+        "metrics": {
+          "shape": 100,
+          "location": 100,
+          "movement": 100
+        },
+        "coverage": 1,
+        "feedback": [
+          "Los puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.",
+          "Esta similitud visual no confirma que la seña sea correcta en LSC."
+        ]
+      }
+    }
+  },
+  "heldOut": {
+    "0000": {
+      "ok": true,
+      "score": 34,
+      "metrics": {
+        "shape": 24,
+        "location": 49,
+        "movement": 34
+      },
+      "coverage": 1,
+      "feedback": [
+        "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+        "Compara la apertura de los dedos y la dirección de la mano con el video.",
+        "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0030": {
+      "ok": true,
+      "score": 21,
+      "metrics": {
+        "shape": 19,
+        "location": 27,
+        "movement": 17
+      },
+      "coverage": 1,
+      "feedback": [
+        "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+        "Compara la apertura de los dedos y la dirección de la mano con el video.",
+        "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    }
+  },
+  "browserReextraction": {
+    "ok": true,
+    "score": 79,
+    "metrics": {
+      "shape": 67,
+      "location": 88,
+      "movement": 88
+    },
+    "coverage": 0.8214285714285715,
+    "feedback": [
+      "Compara la apertura de los dedos y la dirección de la mano con el video.",
+      "Esta similitud visual no confirma que la seña sea correcta en LSC."
+    ]
+  }
+}

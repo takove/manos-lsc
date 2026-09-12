@@ -1,0 +1,26 @@
+/* Scoped overrides keep the entire reference envelope inside the stage. */
+.avatar.lsc-avatar {
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+}
+.landmarks.lsc-landmarks {
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+.lsc-avatar-loading {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  text-align: center;
+  color: #657859;
+  font-size: 13px;
+}

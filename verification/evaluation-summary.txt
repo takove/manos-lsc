@@ -1,0 +1,66 @@
+
+> manos-lsc@1.0.0 verify:fixtures
+> node scripts/evaluate-fixtures.mjs
+
+{
+  "self": {
+    "0030": 100,
+    "0000": 100,
+    "0032": 100,
+    "0031": 100,
+    "0038": 100,
+    "0039": 100,
+    "0005": 100,
+    "0026": 100,
+    "0024": 100,
+    "0001": 100
+  },
+  "heldOut": {
+    "0000": {
+      "ok": true,
+      "score": 34,
+      "metrics": {
+        "shape": 24,
+        "location": 49,
+        "movement": 34
+      },
+      "coverage": 1,
+      "feedback": [
+        "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+        "Compara la apertura de los dedos y la dirección de la mano con el video.",
+        "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    },
+    "0030": {
+      "ok": true,
+      "score": 21,
+      "metrics": {
+        "shape": 19,
+        "location": 27,
+        "movement": 17
+      },
+      "coverage": 1,
+      "feedback": [
+        "Prueba bajar un poco la mano derecha para acercarte a la altura del ejemplo.",
+        "Compara la apertura de los dedos y la dirección de la mano con el video.",
+        "Repite la trayectoria completa: observa el punto de inicio, la dirección y el final.",
+        "Esta similitud visual no confirma que la seña sea correcta en LSC."
+      ]
+    }
+  },
+  "browserReextraction": {
+    "ok": true,
+    "score": 79,
+    "metrics": {
+      "shape": 67,
+      "location": 88,
+      "movement": 88
+    },
+    "coverage": 0.8214285714285715,
+    "feedback": [
+      "Compara la apertura de los dedos y la dirección de la mano con el video.",
+      "Esta similitud visual no confirma que la seña sea correcta en LSC."
+    ]
+  }
+}

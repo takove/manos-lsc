@@ -1,0 +1,69 @@
+{
+  "checks": [
+    {
+      "source": "/references/0030.mp4",
+      "duration": 5.625,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0000.mp4",
+      "duration": 2.458333,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0032.mp4",
+      "duration": 2.916667,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0031.mp4",
+      "duration": 2.916667,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0038.mp4",
+      "duration": 2.541667,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0039.mp4",
+      "duration": 3.375,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0005.mp4",
+      "duration": 3.333333,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0026.mp4",
+      "duration": 3.083333,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0024.mp4",
+      "duration": 3.291667,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "source": "/references/0001.mp4",
+      "duration": 2.416667,
+      "width": 960,
+      "height": 540
+    }
+  ],
+  "playback": "pause, half-speed, keyboard seek verified",
+  "practice": "hint hidden then revealed",
+  "modal": "Escape closes",
+  "guided": "five expressions",
+  "horizontalOverflow": false
+}

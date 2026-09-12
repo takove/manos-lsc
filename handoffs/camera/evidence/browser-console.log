@@ -1,0 +1,14 @@
+[     166ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://lsc-camera-check.localhost/tests/vision-browser.html:0
+[     189ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://lsc-camera-check.localhost/favicon.ico:0
+[   34557ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://lsc-camera-check.localhost/favicon.ico:0
+[   58169ms] [LOG] I0912 19:47:45.732000 2136208 gl_context.cc:407] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:4659
+[   58170ms] [WARNING] W0912 19:47:45.732999 2136208 gl_context.cc:1118] OpenGL error checking is disabled @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:8350
+[   58172ms] [LOG] Graph successfully started running. @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:1370
+[   58376ms] [LOG] I0912 19:47:45.940000 2136208 gl_context.cc:407] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:4659
+[   58377ms] [WARNING] W0912 19:47:45.940999 2136208 gl_context.cc:1118] OpenGL error checking is disabled @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:8350
+[   58378ms] [LOG] Graph successfully started running. @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:1370
+[   71891ms] [WARNING] W0912 19:47:59.454000 2136208 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX. @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:8350
+[   72079ms] [LOG] Graph finished closing successfully. @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:1370
+[   72081ms] [LOG] I0912 19:47:59.644999 2136208 gl_context_webgl.cc:140] Successfully destroyed WebGL context with handle 1 @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:4659
+[   72084ms] [LOG] Graph finished closing successfully. @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:1370
+[   72085ms] [LOG] I0912 19:47:59.648000 2136208 gl_context_webgl.cc:140] Successfully destroyed WebGL context with handle 1 @ https://lsc-camera-check.localhost/wasm/vision_wasm_internal.js:4659

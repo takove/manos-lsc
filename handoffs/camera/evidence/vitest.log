@@ -1,0 +1,14 @@
+
+> manos-lsc@1.0.0 test
+> vitest run src/vision.test.ts
+
+
+ RUN  v3.2.7 <original-workspace>/lsc-camera-reliability/work/snapshot
+
+ ✓ src/vision.test.ts (55 tests) 162ms
+
+ Test Files  1 passed (1)
+      Tests  55 passed (55)
+   Start at  14:48:47
+   Duration  962ms (transform 124ms, setup 0ms, collect 114ms, tests 162ms, environment 0ms, prepare 136ms)
+

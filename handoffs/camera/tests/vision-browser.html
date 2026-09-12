@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es"><meta charset="utf-8"><title>Prueba privada de visión</title>
+<h1>Prueba privada de visión</h1><p>Video sintético; no solicita cámara ni micrófono.</p>
+<button id="run">Ejecutar prueba</button><video id="video" muted playsinline width="320" height="240"></video><pre id="result">Pendiente</pre>
+<script type="module">
+import {loadVision,detect,cameraError} from '/src/vision.ts';
+const output=document.querySelector('#result'),video=document.querySelector('#video');
+const report={ok:false,checks:[],frames:[],physicalCameraRequested:false};
+window.visionReport=report;
+const assert=(condition,message)=>{if(!condition)throw Error(message);report.checks.push(message);};
+document.querySelector('#run').onclick=async()=>{
+ document.querySelector('#run').disabled=true;
+ let stream,models,interval;
+ try{
+  output.textContent='Cargando modelos locales…';
+  const first=loadVision();assert(first===loadVision(),'Concurrent initialization is shared');models=await first;
+  assert(await loadVision()===models,'Loaded models are cached');
+  const canvas=document.createElement('canvas');canvas.width=320;canvas.height=240;
+  const ctx=canvas.getContext('2d');let count=0;
+  const draw=()=>{ctx.fillStyle=count++%2?'#202020':'#303030';ctx.fillRect(0,0,320,240);ctx.fillStyle='white';ctx.fillRect(count%250,50,10,10);};
+  draw();interval=setInterval(draw,40);stream=canvas.captureStream(25);video.srcObject=stream;await video.play();
+  assert(video.videoWidth===320&&video.videoHeight===240,'Synthetic video dimensions are valid');
+  for(let i=0;i<5;i++){
+   await new Promise(resolve=>video.requestVideoFrameCallback(resolve));
+   const f=detect(video,models,i===0?100:0);
+   report.frames.push({t:f.t,aspect:f.aspect,p:f.p.length,l:f.l.length,r:f.r.length});
+   assert(Number.isFinite(f.aspect)&&f.aspect>0,`Finite aspect on frame ${i}`);
+   assert(!f.p.length&&!f.l.length&&!f.r.length,`Blank synthetic frame ${i} has no invented landmarks`);
+   if(i)assert(f.t>report.frames[i-1].t,`Timestamp increases on frame ${i} despite reset input`);
+  }
+  video.pause();assert(detect(video,models,0).p.length===0,'Paused video returns missing detection');
+  video.srcObject=null;video.load();assert(detect(video,models,0).aspect===1,'Zero-dimension video uses finite fallback aspect');
+  report.ok=true;document.title='PASS — visión sintética';
+ }catch(error){report.error={message:error.message,spanish:cameraError(error),cause:error.cause?.message};document.title='FAIL — visión sintética';}
+ finally{
+  clearInterval(interval);stream?.getTracks().forEach(t=>t.stop());video.srcObject=null;
+  // This isolated page will not reuse the shared cache after the smoke check.
+  try{models?.pose.close();}catch{}try{models?.hand.close();}catch{}
+  output.textContent=JSON.stringify(report,null,2);
+ }
+};
+</script></html>

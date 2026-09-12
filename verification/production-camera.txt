@@ -1,0 +1,12 @@
+### Result
+{"feedback":"COMPARACIÓN VISUAL\nTu movimiento, más de cerca.\n83\n/100\nsimilitud estimada\nForma de la mano\n76\nUbicación\n89\nMovimiento\n87\n\nLos puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.\n\nEs una comparación visual, no una calificación de LSC. No evalúa expresión facial ni gramática.\nComparar movimientos\nSiguiente seña","alignedOverlay":true,"cameraStopped":true,"externalResources":[],"errors":[]}
+### Ran Playwright code
+```js
+await (async (page) => {const errors=[];page.on("pageerror",e=>errors.push(e.message));await page.getByRole("region",{name:"Seleccionar lección"}).getByRole("button").nth(1).click();await page.getByRole("button",{name:"Activar mi cámara",exact:true}).click();const b=page.getByRole("button",{name:"Practicar esta seña",exact:true});await b.waitFor({timeout:15000});await b.click();await page.locator(".feedback-card").waitFor({timeout:20000});const feedback=await page.locator(".feedback-card").innerText();await page.getByRole("button",{name:"Comparar movimientos",exact:true}).click();const boxes=await page.locator(".avatar-canvas svg").evaluateAll(xs=>xs.map(x=>x.getAttribute("viewBox")));if(boxes.length!==2||boxes[0]!==boxes[1])throw Error("Overlay viewports mismatch");await page.getByRole("button",{name:"Apagar cámara",exact:true}).click();const stopped=await page.evaluate(()=>window.__cameraFixture.stream.getTracks().every(t=>t.readyState==="ended"));if(!stopped)throw Error("Camera tracks did not stop");const remote=await page.evaluate(()=>performance.getEntriesByType("resource").map(r=>r.name).filter(n=>!n.startsWith(location.origin)));if(remote.length)throw Error("External runtime resources: "+remote.join(","));return {feedback,alignedOverlay:true,cameraStopped:stopped,externalResources:remote,errors};})(page);
+```
+### Page
+- Page URL: https://manos.localhost/
+- Page Title: Manos · Aprende a conectar
+- Console: 0 errors, 4 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-09-12T19-41-46-501Z.log#L75-L82

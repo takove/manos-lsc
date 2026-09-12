@@ -1,0 +1,10 @@
+{
+  "HANDOFF.md": "7b3f0bce4460edfc3d48b95fdd79716998871e50cba20b19bc10606c51eae272",
+  "evidence/vitest.log": "c6d5dbd53adf15cdccede75a6b737a6620d963f9c02737c28b24c57b46d8600a",
+  "evidence/browser-result.json": "ca799331a940569450d586f35c7f55ed514468e59b4f692ab572268e02a63fca",
+  "evidence/browser-console.log": "6be20bc2aef302464f7b1c85a7e61e1dec77bedd2e8024aec39661c375f04ddd",
+  "evidence/build.log": "93e399a9ebbb20024400d7a12e749a6256e16513af175686e4e3af51a62d0281",
+  "tests/vision-browser.html": "763261420e2f1c5d170366c30fc9c4bc6282ff7ea98d57ab12dd0ef3a2fbd7b1",
+  "src/vision.ts": "f1f66f75ac3ffc21c333e896ea24db6d4c7e6588fb1447280528d04c250e977c",
+  "src/vision.test.ts": "5b1b746965a3cf90ae03b16ce973211828753fb4509cd53b30aa9faabc3b4493"
+}

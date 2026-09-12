@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "browser": "Playwright CLI Chromium, isolated lsc-camera-check session",
+  "url": "https://lsc-camera-check.localhost/tests/vision-browser.html",
+  "input": "320x240 canvas.captureStream(25), animated neutral rectangles; no human or camera input",
+  "physicalCameraRequested": false,
+  "microphoneRequested": false,
+  "checksPassed": 19,
+  "frames": [
+    {
+      "t": 100,
+      "aspect": 1.3333333333333333,
+      "p": 0,
+      "l": 0,
+      "r": 0
+    },
+    {
+      "t": 101,
+      "aspect": 1.3333333333333333,
+      "p": 0,
+      "l": 0,
+      "r": 0
+    },
+    {
+      "t": 102,
+      "aspect": 1.3333333333333333,
+      "p": 0,
+      "l": 0,
+      "r": 0
+    },
+    {
+      "t": 103,
+      "aspect": 1.3333333333333333,
+      "p": 0,
+      "l": 0,
+      "r": 0
+    },
+    {
+      "t": 104,
+      "aspect": 1.3333333333333333,
+      "p": 0,
+      "l": 0,
+      "r": 0
+    }
+  ],
+  "alsoVerified": [
+    "concurrent shared initialization",
+    "cached model pair",
+    "paused input returns empty landmarks",
+    "zero-dimension input returns finite aspect 1",
+    "model graphs close successfully"
+  ],
+  "limitations": [
+    "No actual-camera permission or device testing",
+    "No real signing accuracy measurement",
+    "CPU fallback fault injection is deterministic unit coverage; actual browser smoke used GPU",
+    "MediaPipe emitted OpenGL error-checking and NORM_RECT projection warnings; no model load or inference exception"
+  ],
+  "setupNotes": [
+    "First Portless npm run dev invocation failed to propagate the selected port and returned 502. Resolved with direct portless lsc-camera-check npx vite --host 127.0.0.1, without repository config changes.",
+    "One favicon 404 remained; unrelated to inference."
+  ]
+}

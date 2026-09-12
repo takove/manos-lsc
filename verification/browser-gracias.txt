@@ -1,0 +1,12 @@
+### Result
+"COMPARACIÓN VISUAL\nTu movimiento, más de cerca.\n83\n/100\nsimilitud estimada\nForma de la mano\n76\nUbicación\n89\nMovimiento\n90\n\nLos puntos observados se parecen al ejemplo. Mira también la expresión y la orientación de la palma en el video.\n\nEs una comparación visual, no una calificación de LSC. No evalúa expresión facial ni gramática.\nComparar movimientos\nSiguiente seña"
+### Ran Playwright code
+```js
+await (async (page) => { await page.getByRole("region",{name:"Seleccionar lección"}).getByRole("button").nth(1).click();await page.getByRole("button",{name:"Activar mi cámara",exact:true}).click();const b=page.getByRole("button",{name:"Practicar esta seña",exact:true});await b.waitFor({timeout:15000});await b.click();await page.locator(".feedback-card").waitFor({timeout:20000});return await page.locator(".feedback-card").innerText(); })(page);
+```
+### Page
+- Page URL: https://manos.localhost/
+- Page Title: Manos · Aprende a conectar
+- Console: 0 errors, 4 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-09-12T19-41-46-501Z.log#L63-L70
