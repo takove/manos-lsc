@@ -14,6 +14,7 @@ The initial local software loop was completed and verified on 12 September 2026.
 | [Sources](SOURCES.md) | Dataset identifiers, transformations, revisions, attribution |
 | [Module handoffs](handoffs/README.md) | Evaluator, camera, avatar source snapshots and evidence |
 | [Reuse audit](docs/reuse-audit.md) | Broader research into existing recognition/avatar components |
+| [Complete LSC teacher handoff](docs/lsc-teacher-handoff.md) | Full product goal, reuse strategy, feasibility checks, parallel work proposal, and provisional ETAs |
 
 ## Accepted implementation decisions
 
